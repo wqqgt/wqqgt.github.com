@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : 土特产信息
     livefyre :
       site_id : 123
     intensedebate :
