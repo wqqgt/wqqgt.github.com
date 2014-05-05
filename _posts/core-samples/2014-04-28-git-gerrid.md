@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [git, beginner, gerrit, tutorial]
 ---
 {% include JB/setup %}
 
@@ -19,13 +19,12 @@ tags : [intro, beginner, jekyll, tutorial]
 
 当年从学校刚毕业到公司工作，大概是2011年初吧，就接触到了Git，当然还有chrome（后面在重点说chrome），
 这两个高大上的工具，当时最简单的做法就是用git搭的局域网服务器，采用ssh协议通信。
-git clone ssh://[<username>@]<server>:/path/to/repos/myrepo.git  当时采用的是口令认证，每次连接还
-需要输入密码
+当时采用的是口令认证，每次连接还需要输入密码
 
 
 ### Git && Gerrit
 
-后来一次机会接触到了(gerrit<https://code.google.com/p/gerrit/>),这个东西竟然可以让提交到git中的代码
+后来一次机会接触到了gerrit,这个东西竟然可以让提交到git中的代码
 转换成web版，然后提交进去。经过折腾，终于搞定了。
 
 ### 明日再续
