@@ -4,8 +4,6 @@ category : lessons
 tagline: "Supporting tagline"
 tags : [git, beginner, gerrit, tutorial]
 ---
-{% include JB/setup %}
-
 ## Overview
 
 ### 为什么需要版本管理？
