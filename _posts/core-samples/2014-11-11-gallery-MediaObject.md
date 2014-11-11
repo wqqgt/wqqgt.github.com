@@ -1,4 +1,4 @@
-google 系统Gallery解读1
+google 系统Gallery解读(1)
 ====================
 MediaObject
 ---------------------
