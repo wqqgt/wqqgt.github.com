@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to wqqgt Page
-tagline: Supporting tagline
+title: WQQGT BLOG
+tagline: If you do not think about your future, you cannot have one.– John Galsworthy
 ---
 {% include JB/setup %}
 
