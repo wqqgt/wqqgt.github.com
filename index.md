@@ -7,12 +7,11 @@ tagline: Supporting tagline
 
 ## 历史背景
 
-这个网站受益于jekyll和github,所以把这两个文档放到这个上面
+这个网站受益于jekyll和github,所有文章都是自己的理解，如果有不对的地方，欢迎指正   
+联系方式:   
+邮箱wangguo0315@163.com   
+QQ:451810304    
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-    
 ## 最近的更新文档
 
 <ul class="posts">
