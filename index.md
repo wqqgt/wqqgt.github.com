@@ -6,11 +6,8 @@ tagline: If you do not think about your future, you cannot have one.– John Gal
 {% include JB/setup %}
 
 ## 历史背景
-
-这个网站受益于jekyll和github,所有文章都是自己的理解，如果有不对的地方，欢迎指正   
-联系方式:   
-邮箱wangguo0315@163.com   
-QQ:451810304    
+关于图册浏览的问题和建议，请加群219464081   
+大家可以讨论需要什么功能，还有需要什么地方改进等  
 
 ## 最近的更新文档
 
